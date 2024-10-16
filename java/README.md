@@ -3,6 +3,7 @@
 
 ## java 프로젝트 구조
 
+```
 .
 ├── src/
 │   └── main/
@@ -13,3 +14,4 @@
 │                       └── Application.java  # Spring Boot 메인 클래스
 ├── pom.xml  # Maven 의존성 파일
 └── Dockerfile  # Docker 이미지 생성 파일
+```
