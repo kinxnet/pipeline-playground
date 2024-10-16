@@ -1,0 +1,14 @@
+{
+    "name": "cloud-pipeline-nodejs",
+    "version": "1.0.0",
+    "description": "Node.js Cloud Pipeline Example",
+    "main": "app/index.js",
+    "scripts": {
+      "start": "node app/index.js",
+      "test": "echo \"Error: no test specified\" && exit 0"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
